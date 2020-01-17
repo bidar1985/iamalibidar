@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/iamalibidar/static/css/main.89247b7a.chunk.css",
+    "main.js": "/iamalibidar/static/js/main.c5ea4612.chunk.js",
+    "main.js.map": "/iamalibidar/static/js/main.c5ea4612.chunk.js.map",
+    "runtime-main.js": "/iamalibidar/static/js/runtime-main.a5557b3f.js",
+    "runtime-main.js.map": "/iamalibidar/static/js/runtime-main.a5557b3f.js.map",
+    "static/js/2.c74c42e1.chunk.js": "/iamalibidar/static/js/2.c74c42e1.chunk.js",
+    "static/js/2.c74c42e1.chunk.js.map": "/iamalibidar/static/js/2.c74c42e1.chunk.js.map",
+    "index.html": "/iamalibidar/index.html",
+    "precache-manifest.5fa312fb786f9f446415969675a18c9e.js": "/iamalibidar/precache-manifest.5fa312fb786f9f446415969675a18c9e.js",
+    "service-worker.js": "/iamalibidar/service-worker.js",
+    "static/css/main.89247b7a.chunk.css.map": "/iamalibidar/static/css/main.89247b7a.chunk.css.map",
+    "static/js/2.c74c42e1.chunk.js.LICENSE": "/iamalibidar/static/js/2.c74c42e1.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a5557b3f.js",
+    "static/js/2.c74c42e1.chunk.js",
+    "static/css/main.89247b7a.chunk.css",
+    "static/js/main.c5ea4612.chunk.js"
+  ]
+}
