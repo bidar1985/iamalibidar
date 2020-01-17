@@ -1,0 +1,94 @@
+{
+  "title": "Ali Bidar",
+  "subtitle": "FullStack Developer | .net Programmer | SQL Server Database Designer",
+  "links": {
+    "github": "https://github.com/bidar1985",
+    "linkedin": "https://www.linkedin.com/in/ali-bidar-fullstackdeveloper/",
+    "xing": "https://www.xing.com/profile/Ali_Bidar/cv",
+    "instagram":"https://www.instagram.com/aelee1985/",
+    "gmail":"mailto:bidar1985@gmail.com"
+  },
+  "section":[
+    {
+        "title":"About Me!","color":"2",
+        "cnt":"Throughout over 10 years of experience, I have worked in various Web Application Programming Projects. These projects exposed me to plethora algorithm techniques to find the best solutions for complicated problems of tremendous projects. "
+    },
+    {
+        "title":"Experience","color":"3",
+        "cnt":"9+ years Experience of software developing experience with full understanding of Object-Orijented design & development in an Agile environments (like Scrum)",
+        "set":"skills"
+
+    }
+    ,{
+        "title":"Skills","color":"4",
+        "cnt":"Results-oriented professional with a proven knowledge of application development, database and web design. Aiming to leverage my skills to successfully fill the Software Developer role at big company",
+        "set":"skills"
+    }
+  ],
+  "Skills":[
+    {
+      "icon":"icon/asp.png",
+      "title":"Asp.net Programming",
+      "cl":""
+    },
+    {
+      "icon":"icon/Android.png",
+      "title":"Android Programming",
+      "cl":""
+    },
+    {
+      "icon":"icon/ang.png",
+      "title":"Angular",
+      "cl":""
+    },
+    {
+      "icon":"icon/css.png",
+      "title":"CSS3",
+      "cl":""
+    },
+    {
+      "icon":"icon/es6.png",
+      "title":"ES6",
+      "cl":""
+    },
+    {
+      "icon":"icon/java.png",
+      "title":"JACA",
+      "cl":""
+    },
+    {
+      "icon":"icon/mvc.png",
+      "title":"MVC",
+      "cl":""
+    },
+    {
+      "icon":"icon/react.jpg",
+      "title":"React",
+      "cl":""
+    }
+    ,
+    {
+      "icon":"icon/sql.jpg",
+      "title":"SQL Server",
+      "cl":""
+    }
+  ],
+  "experience":[
+    {
+      "icon":"icon/kashco.png",
+      "title":"GIS Base Web & Mobile app  at Kashco Company",
+      "cl":""
+    },
+    {
+      "icon":"icon/khzceo.png",
+      "title":"Asp.net Programmer at khzceo.ir",
+      "cl":""
+    }
+    ,
+    {
+      "icon":"icon/rahaco.png",
+      "title":"Software Developer at R.A.HA.co",
+      "cl":""
+    }
+  ]
+}
